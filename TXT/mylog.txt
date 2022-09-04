@@ -2,9 +2,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  20 L00 General, etc.
-ZCZC W00  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W00  10 L03 GitHub related
 ZCZC W00   5 L04 GitHub Pages related
-ZCZC W00  30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00  30 L06 Study about OS from browsing on internet
 ZCZC W00  35 L09 Weekly Assignments
 ZCZC W00 105 L99 Offline class
 ZCZC W00  60 L06 Study about OS from Silberschatz et. al. slides
