@@ -5,7 +5,6 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL]({{ site.mytarballlink }}) ---
 [GITHUB]({{ site.mygithublink }})
 <br>
 <hr>
