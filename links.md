@@ -23,6 +23,6 @@ Every command has a short, easy to understand explanation and example of usage.
 
 <br>
 <hr>
-{{ site.date }} --- {{ site.author }}.
+{{ site.year }} --- {{ site.author }}
 <hr>
 <br>
