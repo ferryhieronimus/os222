@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:darkCyan; font-weight:bold; font-size:larger;">Hello! my name is {{ site.name }}</span>
+<span style="color:darkCyan; font-weight:bold; font-size:larger;">Hello! My name is {{ site.name }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
