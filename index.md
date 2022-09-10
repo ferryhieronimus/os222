@@ -9,7 +9,7 @@
 [GITHUB]({{ site.mygithublink }})
 <br>
 <hr>
-Hello again! This is my repository for {{ site.title }}.
+Hello again! This is my GitHub Page for {{ site.title }}.
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
