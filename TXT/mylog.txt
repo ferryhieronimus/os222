@@ -11,3 +11,9 @@ ZCZC W00 105 L99 Offline class
 ZCZC W00  60 L06 Study about OS from Silberschatz et. al. slides
 ZCZC W00  30 L05 Quiz related including studying
 ZCZC W01 100 L02 ZOOM meetings
+ZCZC W01  50 L62 Install Virtual Debian Guest
+ZCZC W01 100 L02 ZOOM meetings
+ZCZC W01  40 L05 Quiz related including studying
+ZCZC W01 180 L11 Weekly Assignment: Running and Dress Up VirtuaBox Debian Guest
+ZCZC W01  10 L06 Relearn how to use vi editor
+ZCZC W01   5 L21 Trying to edit mylog.txt using vi
