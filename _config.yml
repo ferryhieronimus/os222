@@ -3,7 +3,7 @@ name:          "Ferry"
 author:        "ferryhieronimus"
 year:          "2022"
 myloglink:     "/TXT/mylog.txt"
-mygithublink:  "https://github.com/edutjie/os222/"
+mygithublink:  "https://github.com/ferryhieronimus/os222/"
 mytarballlink: "https://os.vlsm.org/Log/ferryhieronimus.tar.bz2.txt"
 encoding:      UTF-8
 markdown:      kramdown
