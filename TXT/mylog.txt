@@ -20,3 +20,4 @@ ZCZC W01   5 L21 Trying to edit mylog.txt using vi
 ZCZC W01  40 L04 Update GitHub Page
 ZCZC W01  10 L11 Weekly Assignment: Finishing and adding myupdate.txt
 ZCZC W01  10 L04 Edit GitHub Page
+ZCZC W01  60 L11 Weekly Assignment: GSGS and reading about linux commands
