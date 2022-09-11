@@ -11,6 +11,13 @@
 Hello again! This is my GitHub Page for {{ site.title }}.
 <br>
 <hr>
+<pre>
+The whole of life,
+from the moment you are born to the moment you die,
+is a process of learning.
+                               -Jiddu Krishnamurti
+</pre>
+<hr>
 {{ site.year }} --- {{ site.author }}
 <hr>
 <br>
