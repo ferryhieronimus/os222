@@ -22,3 +22,10 @@ ZCZC W01  10 L11 Weekly Assignment: Finishing and adding myupdate.txt
 ZCZC W01  10 L04 Edit GitHub Page
 ZCZC W01  60 L11 Weekly Assignment: GSGS and reading about linux commands
 ZCZC W02 100 L02 ZOOM meetings
+ZCZC W02  60 L12 Weekly Assignment: Reading and Watching
+ZCZC W02 100 L02 ZOOM meetings
+ZCZC W02  25 L05 Quiz related including studying
+ZCZC W02  90 L12 Weekly Assignment: GnuPG, scripting and finishing
+ZCZC W02  10 L64 Helping a friend about Assignment week 2
+ZCZC W02  30 L40 Updating some files in TXT/
+ZCZC W02  30 L12 Weekly Assignment: Reviewing others link

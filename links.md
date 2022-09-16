@@ -12,6 +12,7 @@ permalink: LINKS/
 
 # LINKS
 
+[WEEKLY ASSIGNMENTS](https://osp4diss.vlsm.org/AOS.html) | [LOG CODES](https://osp4diss.vlsm.org/ETC/logCodes.txt) | [SCHEDULES](https://os.vlsm.org/#idx02)
 ## Week 01
 1. [How to use vi editor](https://www.youtube.com/watch?v=gVB1oNi8xcE)<br>
 A short, easy, and to-the-point video tutorial on how to use vi editor.<br>
