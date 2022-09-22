@@ -29,3 +29,8 @@ ZCZC W02  90 L12 Weekly Assignment: GnuPG, scripting and finishing
 ZCZC W02  10 L64 Helping a friend about Assignment week 2
 ZCZC W02  30 L40 Updating some files in TXT/
 ZCZC W02  30 L12 Weekly Assignment: Reviewing others link
+ZCZC W03  100 L02 ZOOM meetings
+ZCZC W03   50 L05 Quiz related including studying
+ZCZC W03  100 L13 Weekly Assignment: Reading
+ZCZC W03  120 L13 Weekly Assignment: Add/Create An Extra Virtual Disk and Finishing
+ZCZC W03  100 L02 ZOOM meetings
