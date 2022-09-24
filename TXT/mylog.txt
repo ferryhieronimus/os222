@@ -39,3 +39,4 @@ ZCZC W03  35 L05 Studying for Quiz
 ZCZC W03  60 L01 Checking SceLe (forums, etc)
 ZCZC W03  30 L43 TXT/myrank.txt, peer review
 ZCZC W03  15 L41 TXT/mylog.txt related
+ZCZC W03  75 L26 Trying to encrypt/decrypt file
