@@ -32,10 +32,10 @@ A site that explains GPG and things like generating a key pair, importing a publ
 1. [Practice Linux Commands - Exercises](https://labex.io/courses/linux-basic-commands-practice-online)<br>
 Website ini memberikan tutorial mengenai command-command linux. Tutorial disusun secara sistematis dan berurut. Menurut saya web ini sangat menarik karena memberikan tutorial yang interaktif.
 
-2.[The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br>
+2. [The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br>
 Di situs ini, dijelaskan struktur dari filesystem linux dan juga dijelaskan beberapa directories pada linux. Penting untuk mengetahui struktur filesystem dari linux.
 
-3.[GPG Encryption Guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html)<br>
+3. [GPG Encryption Guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html)<br>
 Situs ini menjelaskan apa itu GPG, Encryption, dan beberapa tutorial mengenai GPG, seperti men-generate GPG Key Pair, dsb. Website ini menurut saya bagus dan mudah dipelajari.<br>
 
 <br>
