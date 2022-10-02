@@ -38,6 +38,14 @@ Di situs ini, dijelaskan struktur dari filesystem linux dan juga dijelaskan bebe
 3. [GPG Encryption Guide](https://tutonics.com/2012/11/gpg-encryption-guide-part-1.html)<br>
 Situs ini menjelaskan apa itu GPG, Encryption, dan beberapa tutorial mengenai GPG, seperti men-generate GPG Key Pair, dsb. Website ini menurut saya bagus dan mudah dipelajari.<br>
 
+## Week 04
+
+1. [C Library function - printf()](https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm)<br>
+Situs ini memberikan penjelasan mengenai bagaimana cara melakukan print pada bahasa C. Tutorial lengkap dan mudah dipahami.<br>
+
+2. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Website ini menjelaskan memory management pada sistem operasi. Materi yang dijelaskan mudah dimengerti dan linear dengan materi ajar week ini.
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
