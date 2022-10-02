@@ -48,3 +48,5 @@ ZCZC W04  80 L14 Weekly Assignment: Compiling TLPI
 ZCZC W04  60 L01 Checking SceLe (forums, etc)
 ZCZC W04  50 L14 Weekly Assignment: Reading again
 ZCZC W04  40 L40 TXT/ related
+ZCZC W04  30 L25 C-language including Makefile
+ZCZC W04  40 L26 encrypt/decrypt file

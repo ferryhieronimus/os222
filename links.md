@@ -46,6 +46,9 @@ Situs ini memberikan penjelasan mengenai bagaimana cara melakukan print pada bah
 2. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 Website ini menjelaskan memory management pada sistem operasi. Materi yang dijelaskan mudah dimengerti dan linear dengan materi ajar week ini.
 
+3. [Using C and Make](https://w3.cs.jmu.edu/lam2mo/cs240_2015_08/lab01-using_c.html)<br>
+Situs ini menjelaskan bagaimana menulis program dasar di C dan bagaimana menjalankannya. Situs ini juga menjelaskan fungsi dari Makefile dan bagaimana cara membuatnya. Instruksi yang diberikan sangat jelas<br>
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
