@@ -50,3 +50,12 @@ ZCZC W04  50 L14 Weekly Assignment: Reading again
 ZCZC W04  40 L40 TXT/ related
 ZCZC W04  30 L25 C-language including Makefile
 ZCZC W04  40 L26 encrypt/decrypt file
+ZCZC W05 100 L02 ZOOM Meetings
+ZCZC W05 120 L15 Weekly Assignment: Script download, Memory
+ZCZC W05  90 L15 Weekly Assignment: Reading
+ZCZC W05 100 L02 Zoom Meetings
+ZCZC W05  60 L15 Reading
+ZCZC W05  40 L05 Study for Quiz
+ZCZC W05  50 L01 Checking SceLe
+ZCZC W05  30 L40 TXT/ related
+ZCZC W05  40 L15 Weekly Assignmnet: finishing

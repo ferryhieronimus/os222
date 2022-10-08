@@ -49,6 +49,25 @@ Website ini menjelaskan memory management pada sistem operasi. Materi yang dijel
 3. [Using C and Make](https://w3.cs.jmu.edu/lam2mo/cs240_2015_08/lab01-using_c.html)<br>
 Situs ini menjelaskan bagaimana menulis program dasar di C dan bagaimana menjalankannya. Situs ini juga menjelaskan fungsi dari Makefile dan bagaimana cara membuatnya. Instruksi yang diberikan sangat jelas<br>
 
+## Week 05
+1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Situs ini menjelaskan pengetahuan dasar mengenai virtual memory, keuntungannya, trashing, dan demand paging. Cara penyampaiannya cukup mudah dipahami
+
+2. [Paging with Example](https://www.javatpoint.com/os-paging-with-example)<br>
+Situs ini menjelaskan paging system dalam sistem operasi. Selain itu, dijelaskan pula memory management unit. Saya suka situs ini karena diberikan contoh-contohnya.
+
+3. [Page replacement algorithms | FIFO](https://www.youtube.com/watch?v=16kaPQtYo28)<br>
+Video ini menjelaskan replacement algorithm FIFO. Penjelasannya cukup baik.
+
+4. [Page replacement algorithms | Optimal](https://www.youtube.com/watch?v=jeJIKKQcqpU)<br>
+Video ini menjelaskan replacement algorithm OPTIMAL. Contoh yang diberikan mudah dipahami.
+
+5. [Page replacement algorithms | LRU](https://www.youtube.com/watch?v=u23ROrlSK_g)<br>
+Video ini menjelaskan replacement algorithm LRU. Video ini kelanjutan dari dua video sebelumnya.
+
+6. [Big Endian Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
+Situs ini menjelaskan big endian dan little endian secara singkat. Contoh yang diberikan mudah dipahami perbedaannya.
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
