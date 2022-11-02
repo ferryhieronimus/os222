@@ -68,6 +68,13 @@ Video ini menjelaskan replacement algorithm LRU. Video ini kelanjutan dari dua v
 6. [Big Endian Little Endian](https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html)<br>
 Situs ini menjelaskan big endian dan little endian secara singkat. Contoh yang diberikan mudah dipahami perbedaannya.
 
+## Week 06
+
+1. [What is multithreading?](https://www.techtarget.com/whatis/definition/multithreading#:~:text=Multithreading%20is%20the%20ability%20of,requests%20from%20the%20same%20user.)<br>
+Website ini menjelaskan pengertian dari multithreading secara mendasar dan perbedaannya dengan multitasking serta multiprocessing.
+
+2. [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)<br>
+Situs ini menjelaskan mengenai process pada sistem operasi
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
