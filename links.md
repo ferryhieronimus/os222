@@ -75,6 +75,12 @@ Website ini menjelaskan pengertian dari multithreading secara mendasar dan perbe
 
 2. [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)<br>
 Situs ini menjelaskan mengenai process pada sistem operasi
+
+## Week 07
+
+1. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+Situs ini menjelaskan cara untuk melakukan *secure copy* (scp) pada linux. Membantu untuk menyelesaikan *weekly assignment* minggu ini
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
