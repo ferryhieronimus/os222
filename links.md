@@ -81,6 +81,13 @@ Situs ini menjelaskan mengenai process pada sistem operasi
 1. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
 Situs ini menjelaskan cara untuk melakukan *secure copy* (scp) pada linux. Membantu untuk menyelesaikan *weekly assignment* minggu ini
 
+## Week 08
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+Situs ini menjelaskan cara membuat linux.
+
+2.[Kernotex-How to build LFS 11.2](https://www.youtube.com/watch?v=7ukLbyTTwGo)<br>
+Situs ini menjelaskan website di atas cara membuat linus.
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
