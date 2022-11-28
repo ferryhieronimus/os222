@@ -85,8 +85,15 @@ Situs ini menjelaskan cara untuk melakukan *secure copy* (scp) pada linux. Memba
 1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
 Situs ini menjelaskan cara membuat linux.
 
-2.[Kernotex-How to build LFS 11.2](https://www.youtube.com/watch?v=7ukLbyTTwGo)<br>
-Situs ini menjelaskan website di atas cara membuat linus.
+2. [Kernotex-How to build LFS 11.2](https://www.youtube.com/watch?v=7ukLbyTTwGo)<br>
+Situs ini menjelaskan website di atas cara membuat linux.
+
+## Week 09
+1. [SSD vs. HDD: Which Is Best for You?](https://www.intel.com/content/www/us/en/products/docs/memory-storage/solid-state-drives/ssd-vs-hdd.html)<br>
+Website ini menjelaskan secara dasar perbedaan HDD dan SSD.
+
+2. [What is NVMe™ and why is it important? A Technical Guide](https://blog.westerndigital.com/nvme-important-data-driven-businesses/)<br>
+Situs ini menjelaskan apa itu NVMe dan keunggulannya dibandingkan dengan teknologi storage yang lain.
 
 <br>
 <hr>

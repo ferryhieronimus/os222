@@ -85,3 +85,12 @@ ZCZC W08  30 L18 Weekly Assignment: Script Download
 ZCZC W08 360 L18 Weekly Assignment: Linux From Scratch Ch. 1-5
 ZCZC W08  30 L18 Weekly Assignment: Finishing
 ZCZC W08  35 L40 TXT/ related
+ZCZC W09 100 L99 Face-to-face lecture
+ZCZC W09  60 L19 Weekly Assignment: Reading and Demos
+ZCZC W09  30 L01 Checking SceLe
+ZCZC W09 100 L99 Face-to-face lecture
+ZCZC W09  75 L05 Study for Quiz
+ZCZC W09  70 L19 Weekly Assignment: Script Download
+ZCZC W09  30 L40 TXT/ related
+ZCZC W09 210 L19 Weekly Assignment: Linux From Scratch Ch. 6-7
+ZCZC W09  60 L19 Weekly Assignment: Finishing
