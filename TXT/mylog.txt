@@ -94,3 +94,5 @@ ZCZC W09  70 L19 Weekly Assignment: Script Download
 ZCZC W09  30 L40 TXT/ related
 ZCZC W09 210 L19 Weekly Assignment: Linux From Scratch Ch. 6-7
 ZCZC W09  60 L19 Weekly Assignment: Finishing
+ZCZC W10  30 L20 Weekly Assignment
+ZCZC W10  60 L40 TXT/ related

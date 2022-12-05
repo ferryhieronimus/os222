@@ -95,6 +95,11 @@ Website ini menjelaskan secara dasar perbedaan HDD dan SSD.
 2. [What is NVMe™ and why is it important? A Technical Guide](https://blog.westerndigital.com/nvme-important-data-driven-businesses/)<br>
 Situs ini menjelaskan apa itu NVMe dan keunggulannya dibandingkan dengan teknologi storage yang lain.
 
+## Week 10
+1. [What is I/O (Input/Output)?](https://www.trentonsystems.com/blog/what-is-i/o#:~:text=I%2FO%20(Input%2FOutput)%20is%20an%20information%20processing,to%20other%20systems%20or%20devices.)<br>
+Website ini menjelaskan apa itu I/O secara general
+
+
 <br>
 <hr>
 {{ site.year }} --- {{ site.author }}
